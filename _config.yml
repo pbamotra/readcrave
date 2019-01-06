@@ -1,14 +1,14 @@
 # Site settings
 title_left    : "Read"
 title_right   : "crave" # default: ""
-description   : "Particularly interesting filtered browsing history"
+description   : "Filtered internet browsing history"
 keywords      : "Discover,interesting reads,culture,design,creative,creativity,inspiration,innovation,trends,tech,cool,world,social-web,sustainability"
 url           : https://www.readcrave.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+twitter_username  : "_pbamotra_"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
