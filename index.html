@@ -15,6 +15,9 @@ title: Home
                 <a href="{{ link.linky}}" target="_blank">{{ link.title }} </a><i class="{{ link.class }}"></i>
                 <span class="post-meta date-label">{{ link.source }}</span>
             </div>
+            {% if link.description %}
+                <span class="article-description">{{ link.description }}</span>
+            {% endif %}
           </article>
       {% endfor %}
     {% endfor %}
